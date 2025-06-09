@@ -1,0 +1,11 @@
+[python_binary_file_extractor]
+# git clone https://github.com/extremecoders-re/pyinstxtractor.git
+# cd pyinstxtractor/
+# python3.11 pyinstxtractor.py
+
+[pycdc_extractor]
+# git clone https://github.com/zrax/pycdc.git
+# cd pycdc
+# cmake .
+# make
+# pycdc [input_file]
